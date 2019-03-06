@@ -1,0 +1,15 @@
+#ath-buttons {
+    border: rounded;
+    color: white;
+}
+#ath-input {
+    color: black;
+}
+body {
+    background-image: url("/Users/andreflint/Giphy/images/court.jpg");
+    background-color: #cccccc;
+   }
+   h1{
+       font-size: 50pt;
+       color: red;
+   }
